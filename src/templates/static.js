@@ -7,6 +7,8 @@ import styled from "styled-components"
 
 import Button from "../components/Button"
 import PageMetadata from "../components/PageMetadata"
+import InfoBanner from "../components/InfoBanner"
+import Subtitle from "../components/Subtitle"
 import Sidebar from "../components/Sidebar"
 import MeetupList from "../components/MeetupList"
 import RandomAppList from "../components/RandomAppList"
@@ -233,6 +235,8 @@ const components = {
   Roadmap,
   Logo,
   Button,
+  InfoBanner,
+  Subtitle,
 }
 
 const StaticPage = ({ data: { mdx } }) => {
