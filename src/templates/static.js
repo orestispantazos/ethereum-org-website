@@ -18,6 +18,7 @@ import Translation from "../components/Translation"
 import { getLocaleTimestamp } from "../utils/time"
 import { isLangRightToLeft } from "../utils/translations"
 import { Mixins } from "../components/Theme"
+import Warning from "../components/Warning"
 
 const Page = styled.div`
   display: flex;
@@ -237,6 +238,7 @@ const components = {
   Button,
   InfoBanner,
   Subtitle,
+  Warning,
 }
 
 const StaticPage = ({ data: { mdx } }) => {
