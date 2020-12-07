@@ -13,7 +13,7 @@ sidebar: true
 
 ## Why Enterprise Ethereum? {#why-enterprise-ethereum}
 
-Why should businesses care about Enterprise Ethereum?
+Why should businesses care about Enterprise Ethereum? Open on this network.
 
 - New business models and value creation opportunities
 - Reduced cost of trust and coordination between business parties
